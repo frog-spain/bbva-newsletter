@@ -1,7 +1,5 @@
 # BBVA Spark Newsletter
 
-![BBVA Spark Logo](assets/logo.png)
-
 Una plantilla de boletín de noticias por correo electrónico responsive para BBVA Spark, que incluye listados de eventos, actualizaciones de financiación y noticias de innovación.
 
 ## Demo
