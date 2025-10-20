@@ -6,6 +6,10 @@ Una plantilla de boletín de noticias por correo electrónico responsive para BB
 
 Haz clic [aquí](https://frog-spain.github.io/bbva-newsletter/) para ver la demo de la newsletter en español.
 
+Para descargar el proyecto, haz clic en 'Code' y selecciona 'Download ZIP':
+
+![Download instruction](Screenshot%202025-10-20%20at%2012.48.22.png)
+
 ## Características
 
 - **Soporte bilingüe**: Disponible en español (`index.html`) e inglés (`index_en.html`)
