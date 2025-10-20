@@ -1,20 +1,22 @@
 # BBVA Spark Newsletter
 
-A responsive email newsletter template for BBVA Spark, featuring event listings, financing updates, and innovation news.
+![BBVA Spark Logo](assets/logo.png)
+
+Una plantilla de boletín de noticias por correo electrónico responsive para BBVA Spark, que incluye listados de eventos, actualizaciones de financiación y noticias de innovación.
 
 ## Demo
 
-Clixk [here](https://frog-spain.github.io/bbva-newsletter/) to see the demo of the newsletter in Spanish.
+Haz clic [aquí](https://frog-spain.github.io/bbva-newsletter/) para ver la demo de la newsletter en español.
 
-## Features
+## Características
 
-- **Bilingual Support**: Available in Spanish (`index.html`) and English (`index_en.html`)
-- **Responsive Design**: Optimized for desktop and mobile email clients
-- **Email Client Compatibility**: Designed for Outlook (desktop and web), Gmail, Apple Mail, and mobile clients
+- **Soporte bilingüe**: Disponible en español (`index.html`) e inglés (`index_en.html`)
+- **Diseño responsive**: Optimizado para clientes de correo electrónico de escritorio y móvil
+- **Compatibilidad con clientes de correo**: Diseñado para Outlook (escritorio y web), Gmail, Apple Mail y clientes móviles
 
-## Technical Details
+## Detalles técnicos
 
-- **Table-based layout** for maximum email client compatibility
-- **Hybrid CSS approach**:
-  - Inline styles for core styling and email client compatibility
-  - CSS classes with media queries for responsive behavior
+- **Maquetación basada en tablas** para máxima compatibilidad con clientes de correo
+- **Enfoque híbrido de CSS**:
+  - Estilos en línea para el estilo principal y compatibilidad con clientes de correo
+  - Clases CSS con media queries para comportamiento responsive
