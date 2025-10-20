@@ -22,3 +22,4 @@ Para descargar el proyecto, haz clic en 'Code' y selecciona 'Download ZIP':
 - **Enfoque híbrido de CSS**:
   - Estilos en línea para el estilo principal y compatibilidad con clientes de correo
   - Clases CSS con media queries para comportamiento responsive
+- **Imágenes**: Se utilizan archivos PNG en lugar de SVG debido a las limitaciones de compatibilidad de los clientes de correo electrónico. Aunque los SVG ofrecen mejor calidad y escalabilidad, muchos clientes de correo (especialmente versiones de Outlook) no los soportan adecuadamente, lo que podría resultar en imágenes rotas o no visualizadas. Los PNG garantizan la visualización correcta en todos los clientes de correo.
