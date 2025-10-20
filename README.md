@@ -8,7 +8,7 @@ Haz clic [aquí](https://frog-spain.github.io/bbva-newsletter/) para ver la demo
 
 Para descargar el proyecto, haz clic en 'Code' y selecciona 'Download ZIP':
 
-![Download instruction](assets/Screenshot%202025-10-20%20at%2012.48.22.png)
+![Download instruction](assets/screenshot.png)
 
 ## Características
 
