@@ -14,7 +14,7 @@ Para descargar el proyecto, haz clic en 'Code' y selecciona 'Download ZIP':
 
 - **Soporte bilingüe**: Disponible en español (`index.html`) e inglés (`index_en.html`)
 - **Diseño responsive**: Optimizado para clientes de correo electrónico de escritorio y móvil
-- **Compatibilidad con clientes de correo**: Diseñado para Outlook (escritorio y web), Gmail, Apple Mail y clientes móviles
+- **Compatibilidad con clientes de correo**: Diseñado para Outlook, Gmail, Apple Mail y clientes móviles
 
 ## Detalles técnicos
 
